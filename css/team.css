@@ -1,0 +1,27 @@
+.team {
+  background-color: #f4f4fd;
+  text-align: center;
+}
+
+.team-item {
+  background-color: #ffffff;
+}
+
+.section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.team-role {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
